@@ -16,6 +16,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
   - museo sans
 - eye catching fun fonts
   - https://www.haleyfiege.fun/fonts
+- [Variable fonts](https://v-fonts.com)
 
 ## Color Picking
 
@@ -143,6 +144,7 @@ In particular, applying gradients and background images to text is super underra
 - https://www.zondicons.com/
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
+- [Open source icons](https://feathericons.com)
 
 premium/paid icons
 
@@ -207,6 +209,7 @@ developers and designers
 - links https://cssanimation.rocks/animating-links/
 - tooltips on hover https://kazzkiq.github.io/balloon.css/
 - Link and Button hover effects https://www.youtube.com/watch?v=ceNMP-aQkQ4
+- Cubic bezier effect https://cubic-bezier.com
 
 ### Styling Forms
 
